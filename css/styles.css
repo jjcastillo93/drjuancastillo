@@ -28,7 +28,6 @@ footer {
     width: 100%;
 }
 
-/* Efecto de zoom en las imágenes del carrusel */
 .carousel-item img {
     transition: transform 5s ease-in-out; /* Suavidad en la animación */
     transform: scale(1); /* Escala inicial */
